@@ -84,11 +84,10 @@ Documented a full ticket lifecycle from open to close. Ticket HD-1024 came in fr
 
 ## Currently Building
 
-- [ ] Nmap Network Reconnaissance Lab
-- [ ] Linux Fundamentals Lab
+- [x] Linux Fundamentals Lab
 - [ ] Splunk Log Analysis Lab
 - [ ] Azure Active Directory Lab
-
+- [ ] Nmap Network Reconnaissance Lab
 ---
 
 This lab is something I actively work on and expand as I build toward a career in cybersecurity. If you want to see the full write-ups with screenshots for each lab, check out my Notion portfolio linked above.
